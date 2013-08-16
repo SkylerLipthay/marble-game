@@ -1,0 +1,25 @@
+{
+  "name": "Test Level",
+  "spawn": [ 0.0, 0.5, 0.0 ],
+  "objects": [
+    {
+      "model": "table.obj",
+      "position": [ 0.0, 0.0, 0.0 ],
+      "rotation": [ 0.0, 0.0, 0.0, 1.0 ],
+      "friction": 2.0,
+      "restitution": 0.4
+    },
+    {
+      "model": "goal.obj",
+      "position": [ -80.0, 2.148, -0.778 ],
+      "rotation": [ 0.0, 0.0, 0.0, 1.0 ],
+      "goal": true
+    },
+    {
+      "model": "goal.obj",
+      "position": [ 24.0, 2.148, -38.6 ],
+      "rotation": [ 0.0, 0.0, 0.0, 1.0 ],
+      "goal": true
+    }
+  ]
+}
