@@ -1,0 +1,4 @@
+src/skylib_test/obj/*.o
+src/skylib_test/bin/*.exe
+src/skylib/obj/*.o
+src/skylib/lib/*.a
